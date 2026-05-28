@@ -1,0 +1,14 @@
+run cmake command
+
+1.
+cmake .. -DCMAKE_TOOLCHAIN_FILE=C:\vcpkg\vcpkg\scripts\buildsystems\vcpkg.cmake
+
+build proj
+
+2. Build
+cmake --build . --config Debug
+
+3. run the exe found in the build/Debug
+.\Debug\your_exe
+
+4. make sure use the port that is unused by other for example 5433

@@ -1,0 +1,3 @@
+C:/Papas/preset_drogon/server/backend/build/CMakeFiles/my_api.dir
+C:/Papas/preset_drogon/server/backend/build/CMakeFiles/ALL_BUILD.dir
+C:/Papas/preset_drogon/server/backend/build/CMakeFiles/ZERO_CHECK.dir

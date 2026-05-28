@@ -1,0 +1,14 @@
+{
+  "db_clients": [
+    {
+      "name": "default",
+      "rdbms": "postgresql",
+      "host": "127.0.0.1",
+      "port": 5433,
+      "dbname": "preset_db",
+      "user": "postgres",
+      "password": "password123",
+      "connection_number": 1
+    }
+  ]
+}

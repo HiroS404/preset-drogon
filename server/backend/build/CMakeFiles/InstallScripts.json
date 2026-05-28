@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Papas/preset_drogon/server/backend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,10 @@
+^C:\PAPAS\PRESET_DROGON\SERVER\BACKEND\CMAKELISTS.TXT
+setlocal
+D:\bin\cmake.exe -SC:/Papas/preset_drogon/server/backend -BC:/Papas/preset_drogon/server/backend/build --check-stamp-file C:/Papas/preset_drogon/server/backend/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

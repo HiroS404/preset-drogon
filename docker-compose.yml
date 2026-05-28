@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: preset-docker-hiro
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: "password123"
+      POSTGRES_DB: preset_db
+
+    ports:
+      - "5433:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
