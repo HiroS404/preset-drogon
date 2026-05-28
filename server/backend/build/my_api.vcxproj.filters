@@ -4,6 +4,9 @@
     <ClCompile Include="C:\Papas\preset_drogon\server\backend\main.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Papas\preset_drogon\server\backend\controllers\DbTestController.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Papas\preset_drogon\server\backend\controllers\HealthController.cc">
       <Filter>Source Files</Filter>
     </ClCompile>

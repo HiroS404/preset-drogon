@@ -89,7 +89,7 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=C:/Papas/preset_drogon/server/backend/build/CMakeFiles/pkgRedirects
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/task_manager_api
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/preset_api
 
 //Path to a program.
 CMAKE_LINKER:FILEPATH=C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe
@@ -127,7 +127,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=task_manager_api
+CMAKE_PROJECT_NAME:STATIC=preset_api
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
@@ -329,13 +329,13 @@ _VCPKG_INSTALLED_DIR:PATH=C:/vcpkg/vcpkg/installed
 c-ares_DIR:PATH=C:/vcpkg/vcpkg/installed/x64-windows/share/c-ares
 
 //Value Computed by CMake
-task_manager_api_BINARY_DIR:STATIC=C:/Papas/preset_drogon/server/backend/build
+preset_api_BINARY_DIR:STATIC=C:/Papas/preset_drogon/server/backend/build
 
 //Value Computed by CMake
-task_manager_api_IS_TOP_LEVEL:STATIC=ON
+preset_api_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-task_manager_api_SOURCE_DIR:STATIC=C:/Papas/preset_drogon/server/backend
+preset_api_SOURCE_DIR:STATIC=C:/Papas/preset_drogon/server/backend
 
 
 ########################

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(task_manager_api)
+project(preset_api)
 
 set(CMAKE_CXX_STANDARD 17)
 

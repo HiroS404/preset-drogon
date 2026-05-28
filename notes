@@ -3,7 +3,6 @@ run cmake command
 1.
 cmake .. -DCMAKE_TOOLCHAIN_FILE=C:\vcpkg\vcpkg\scripts\buildsystems\vcpkg.cmake
 
-build proj
 
 2. Build
 cmake --build . --config Debug

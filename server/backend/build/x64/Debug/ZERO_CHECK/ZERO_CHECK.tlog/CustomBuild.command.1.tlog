@@ -1,6 +1,6 @@
 ^C:\PAPAS\PRESET_DROGON\SERVER\BACKEND\BUILD\CMAKEFILES\C5A233CABBA69F243FE0395435C8251C\GENERATE.STAMP.RULE
 setlocal
-D:\bin\cmake.exe -SC:/Papas/preset_drogon/server/backend -BC:/Papas/preset_drogon/server/backend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Papas/preset_drogon/server/backend/build/task_manager_api.slnx
+D:\bin\cmake.exe -SC:/Papas/preset_drogon/server/backend -BC:/Papas/preset_drogon/server/backend/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Papas/preset_drogon/server/backend/build/preset_api.slnx
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

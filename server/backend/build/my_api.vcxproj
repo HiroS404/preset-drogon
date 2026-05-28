@@ -430,6 +430,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Papas\preset_drogon\server\backend\main.cc" />
+    <ClCompile Include="C:\Papas\preset_drogon\server\backend\controllers\DbTestController.cc" />
     <ClCompile Include="C:\Papas\preset_drogon\server\backend\controllers\HealthController.cc" />
     <ClCompile Include="C:\Papas\preset_drogon\server\backend\controllers\HiroCheck.cc" />
   </ItemGroup>
